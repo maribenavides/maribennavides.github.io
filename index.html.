@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Recomendación de libros de fantasía</title>
+        <style>
+        #foto {
+            width: 70px;
+            float: left;
+            margin-right: 6px;
+            margin-bottom: 6px;
+        }
+         body {
+            font-size: 13px;
+        }
+        h2,h3 {
+            color: rgb(0, 0, 0);
+            font-family: fantasy;
+        }  
+         h2:hover,h3:hover{
+            font-size: 1.6em;
+        }  
+        p {
+            color: rgb(41, 41, 41);
+            font-family: fantasy;
+            font-size: 14px;
+            font-style: italic;
+            margin-left:8px;
+        }
+        h2 { }
+        #opinion-publico { background-color: green; 
+        }  
+            
+        </style>
+        
+    </head>
+    <body>
+
+<ol>
+    <li><a href="#Saga">saga</a></li>
+</ol>
+
+
+<h1>Recomendaciones sobre libros de fantasía y ciencia ficción.</h1>
+
+<h2>La larga marcha.</h2>
+
+
+<h3> Stephen King </h3>
+<img id="foto" src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/CharacterBoy.png">
+<p>La larga marcha es una novela por Stephen King publicada bajo el seudónimo de Richard Bachman en 1979 como un libro de bolsillo original. Fue coleccionado en 1985 en The Bachman Books, y ha tenido varias reimpresiones, tanto rústica como con tapa dura.<p>
+<p>Una inquietante novela futurista donde la realidad supera a la fantasía más terrorífica. El escenario: una sociedad ultraconservadora que ha llevado al paroxismo sus rasgos más perversos, dominada por un estado policial. El acontecimiento: La más extraordinaria competición deportiva, una agotadora marcha a pie donde un resbalón puede ser el último. Los competidores: cien adolescentes elegidos por sorteo y decididos a pasar sobre los cadáveres de sus compañeros para llegar a la meta. El premio: fama y fortuna para el ganador, es decir, para el único superviviente... Solo uno será el triunfador. Los 99 restantes morirán.<p>
+
+ <h2 id="opinion-publico">Opiniones del público</h2>
+ <ul>
+     <li>Es un libro muy entretenido que a todos nos va a mantener al borde del asiento, nuestro protagonista Garraty, nos va a contar su experiencia en esta competición, vamos a estar al borde de la locura con tal de que nuestros personajes demuestren su supervivencia, recomiendo iniciar con este libro para leer stephen king, es mi libro favorito.
+     <li>Muy buena, te hace sentir el peso de esa interminable caminata...
+     <li>Un muy buen libro, comparación perfecto con el trayecto de la vida. Stephen king describe muy bien todo en esta historia. 
+ </ul>
+ 
+  <style>
+        h2 { }
+        #opinion-publico { background-color: green; 
+        }  
+            
+        </style>
+        
+
+    
+     <style>
+     table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+}
+caption {
+   padding: 0.3em;
+   color: #fff;
+    background: #000;
+}
+th {
+   background: #eee;
+}
+        
+    </style>
+        
+        <h1 id="Saga">1. Saga</h1>
+        
+        <p><em> <a href="https://www.buscalibre.com.co/">Donde comprarlo</a></em></p>
+    
+        <ul>
+            <li>Descripción</li>
+          
+            
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Titulo</th>
+                    <th>Descripción</th>
+                    <th>Paginas</th>
+                </tr>
+            </thead>
+            
+            <tbody>
+                <tr>
+                    <td>Corazón de tinta</td>
+                    <td>Quiénes son de verdad Dedo Polvoriento, Capricornio o Lengua de Brujo lo sabrá la joven Meggie por las respuestas que encuentre en un viejo pueblo de las montañas de Liguria... y también en un libro. Cuando Mo, el padre de Meggie, saluda a un extraño visitante que aparece en su casa, la niña siente que aquella persona emana un peligro, quizá una gran amenaza contra su padre... y entonces huyen al sur, a la casa de tía Elinor, propietaria de una de las más fascinantes bibliotecas que uno pueda imaginar. Meggie descubrirá que los forasteros que misteriosamente aparecen y desaparecen, como aquel visitante nocturno, llaman a su padre Lengua de Brujo, ya que tiene el don de dar vida a los personajes de los libros cuando lee en voz alta.</td>
+                    <td>596</td>
+                </tr>
+                <tr>
+                    <td>Sangre de tinta</td>
+                    <td>La vida parece que vuelve a ser apacible en la casa de tía Elinor y en su fascinante biblioteca, o con el regreso de Resa, o con Mo (Lengua de Brujo) de nuevo encuadernando y «sanando» libros enfermos? pero el peligro vuelve a acechar tras las páginas y en el jardín.Meggie, que ha heredado de su padre Lengua de Brujo el don de dar vida a los personajes de los libros cuando lee en voz alta, tampoco será abandonada por la magia en esta aventura... y un nuevo viaje dará comienzo. Meggie partirá hacia el Mundo de Tinta en compañía de Farid con la intención de prevenir a Dedo Polvoriento, pues el cruel Basta y la malvada Mortola no andan muy lejos? Además, por fin conocerá al Príncipe Orondo, a Cósimo el Guapo, al Príncipe Negro y a su oso y el Bosque Impenetrable. Y, cómo no, también le gustaría reencontrarse con las hadas azules, con los elfos de fuego y, como es natural, con Fenoglio, que quizá pueda devolverla al mundo real mediante la escritura. ¿O quizá no?
+
+ </td>
+                    <td>657</td>
+                </tr>
+                <tr>
+                    <td>Muerte de tinta</td>
+                    <td>Después de Corazón de Tinta y Sangre de Tinta, en este fulminante final de la trilogía, hay sombras negras en Umbra... Han pasado solamente pocas semanas desde que las Mujeres Blancas se llevaran consigo a Dedo Polvoriento. Meggie y sus padres están viviendo en una pacífica finca abandonada que les hace casi olvidar las pesadillas que pasaron en el Castillo de Noche, aunque cuando oscurece y Meggie mira impaciente por la ventana esperando a Farid escucha el grito de un grajo... y entonces su padre desaparece en el bosque. </td>
+                    <td>704</td>
+                </tr>
+        </tbody>
+        </table>
+        
+ 
+    </body>
+</html>
